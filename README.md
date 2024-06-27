@@ -1,7 +1,7 @@
 # ***Hey There, I'm ArunKumar@AK*** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 - 👀 I’m interested in #Technology & Science.
-- 🌱 I’m currently Working & Learning.
+- 🌱 I am acquiring knowledge through hands-on work experience.
 - 💞️ I’m looking to collaborate on Future Development Things.
 - 📫 How to reach me: Say *`Hyy`* on anywhere.
 - https://arunkumar.vercel.app
