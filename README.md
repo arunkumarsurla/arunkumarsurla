@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on Future Development Things.
 - 📫 How to reach me: Say *`Hyy`* on anywhere.
 - https://arunkumar.vercel.app
-- https://arunkumarsurla.github.io/AKPortfolio/
+
 
 
 <!--## ***Skills***
